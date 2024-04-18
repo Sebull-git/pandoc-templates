@@ -448,10 +448,10 @@ Lieber Jugendvorstand,
 
 
 \begin{center}
-  hiermit möchte ich Euch herzlich zu unserer nächsten Jugendvorstandssitzung am \\ \textbf{\datedayname\  den \datedate\ um $time$ Uhr}\\ in die Schwimmeisterwohnung am Taunusbad  einladen. 
+  hiermit möchte ich Euch herzlich zu unserer nächsten Jugendvorstandssitzung am \\ \textbf{\datedayname\  den \datedate\ um $time$ Uhr}\\ in $location$  einladen. 
 \end{center}
 
-Folgende Themen wollen wir an diesem Abend besprechen:
+Folgende Themen wollen wir an diesem $time_of_day$ besprechen:
 
 \begin{enumerate}
   \item[]
@@ -468,7 +468,7 @@ Ergänzungen und Anregungen zur Tagesordnung bitte per Mail an mich (\href{mailt
 \\
 Liebe Grüße,\\\\
 $name$\\
-\emph{Jugendleiter}\\
+\emph{$position$}\\
 
 
 \end{document}
